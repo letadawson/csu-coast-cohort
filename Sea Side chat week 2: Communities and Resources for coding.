@@ -7,3 +7,6 @@ Let's create a table that allows for us to add links from URL's, Twitter, and ot
 Name     |GitHub/URL      |Twitter
 ---------|----------------|-------
 Zotereo|[URL](https://www.zotero.org/groups/4118402/openscapes/library)|
+CRAN Task Views|[URL](https://cran.r-project.org/web/views/)|
+rOpenSci packages|[URL](https://ropensci.org/packages/)|
+Tidyverse|[URL](https://www.tidyverse.org)|
